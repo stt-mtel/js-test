@@ -1,0 +1,23 @@
+{
+  "name": "js-test",
+  "version": "1.0.0",
+  "description": "This assignment is created to assess your skills and capabilities in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stt-mtel/js-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stt-mtel/js-test/issues"
+  },
+  "homepage": "https://github.com/stt-mtel/js-test#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
